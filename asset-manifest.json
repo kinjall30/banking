@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/banking/static/js/main.6fd876e8.chunk.js",
+    "main.js.map": "/banking/static/js/main.6fd876e8.chunk.js.map",
+    "runtime-main.js": "/banking/static/js/runtime-main.c1f8dde6.js",
+    "runtime-main.js.map": "/banking/static/js/runtime-main.c1f8dde6.js.map",
+    "static/js/2.163bd3a0.chunk.js": "/banking/static/js/2.163bd3a0.chunk.js",
+    "static/js/2.163bd3a0.chunk.js.map": "/banking/static/js/2.163bd3a0.chunk.js.map",
+    "index.html": "/banking/index.html",
+    "static/js/2.163bd3a0.chunk.js.LICENSE.txt": "/banking/static/js/2.163bd3a0.chunk.js.LICENSE.txt",
+    "static/media/arrow.ffe11b41.svg": "/banking/static/media/arrow.ffe11b41.svg",
+    "static/media/bg.b734ddb3.svg": "/banking/static/media/bg.b734ddb3.svg",
+    "static/media/blob_bottom.85de3f6d.svg": "/banking/static/media/blob_bottom.85de3f6d.svg",
+    "static/media/blob_top.0eedfd1c.svg": "/banking/static/media/blob_top.0eedfd1c.svg",
+    "static/media/chart.a84f440e.svg": "/banking/static/media/chart.a84f440e.svg",
+    "static/media/creditcard.769cef4d.svg": "/banking/static/media/creditcard.769cef4d.svg",
+    "static/media/logo.102027f6.svg": "/banking/static/media/logo.102027f6.svg",
+    "static/media/phone.9ffcf787.svg": "/banking/static/media/phone.9ffcf787.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f8dde6.js",
+    "static/js/2.163bd3a0.chunk.js",
+    "static/js/main.6fd876e8.chunk.js"
+  ]
+}
